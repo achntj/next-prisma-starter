@@ -1,6 +1,6 @@
 # Next JS and Prisma Starter
 
-This starter is a simple and sensible repository that gives you the basic boilerplate for your next project. Prisma gives you support almost all popular databases and is easy to use. This starter uses Next.js (+React), TypeScript, TailwindCSS, and Vercel.
+This starter is a simple and sensible repository that gives you the basic boilerplate for your next project. Prisma gives you support for almost all popular databases and is easy to use. This starter uses Next.js (+React), TypeScript, TailwindCSS, and Vercel.
 
 ## Setup
 
